@@ -4,6 +4,7 @@ import HomePage from './homepage.component';
 
 import './App.css';
 
+// hello
 class App extends React.Component {
   render() {
     return (
